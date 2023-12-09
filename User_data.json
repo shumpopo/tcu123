@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "Student ID": "jhgfd",
+            "Name": "hgfds",
+            "Year & Course": "hgfds",
+            "Section": "gfds",
+            "Email": "hgfds",
+            "Password": "hgfdsa"
+        },
+        {
+            "Student ID": "2e13",
+            "Name": "2331",
+            "Year & Course": "312",
+            "Section": "321",
+            "Email": "312",
+            "Password": "2312"
+        },
+        {
+            "Student ID": "123",
+            "Name": "123",
+            "Year & Course": "123",
+            "Section": "123",
+            "Email": "123",
+            "Password": "123"
+        },
+        {
+            "Student ID": "321",
+            "Name": "321",
+            "Year & Course": "321",
+            "Section": "321",
+            "Email": "321",
+            "Password": "321"
+        },
+        {
+            "Student ID": "123-123",
+            "Name": "tee",
+            "Year & Course": "4ty",
+            "Section": "a2020",
+            "Email": "teeespares@gmail.com",
+            "Password": "123"
+        }
+    ]
+}
